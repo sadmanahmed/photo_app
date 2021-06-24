@@ -12,6 +12,14 @@ gem 'pg'
 group :development, :test do
   gem 'dotenv-rails'
 end
+#for authentication
+gem 'devise'
+# For frontend
+gem 'twitter-bootstrap-rails'
+# For devise view customization
+gem 'devise-bootstrap-views'
+
+gem 'jquery-rails'
 
 
 #gem 'sqlite3', '~> 1.4'
