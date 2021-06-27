@@ -20,6 +20,8 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 
 gem 'jquery-rails'
+#For payment gateway
+gem 'stripe'
 
 
 #gem 'sqlite3', '~> 1.4'
